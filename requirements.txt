@@ -1,6 +1,6 @@
 # Core data analysis packages (Windows-compatible versions)
-# pandas==1.5.3
-# numpy==1.24.3
+pandas==2.3.1
+numpy==2.3.2
 
 # Data fetching
 yfinance>=0.2.28
