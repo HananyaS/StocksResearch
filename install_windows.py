@@ -207,7 +207,6 @@ def main():
         print("   pip install pandas==1.5.3")
         print("   pip install yfinance")
         print("\n2. Use conda instead of pip:")
-        print("   conda env create -f environment.yml")
         print("   conda activate stocks-research")
         print("\n3. Install from wheels:")
         print("   pip install --only-binary=all numpy==1.24.3 pandas==1.5.3")
